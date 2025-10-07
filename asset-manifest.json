@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/KeshavSoft_Task1/static/css/main.d743d585.css",
+    "main.js": "/KeshavSoft_Task1/static/js/main.a2c0f2cb.js",
+    "index.html": "/KeshavSoft_Task1/index.html",
+    "main.d743d585.css.map": "/KeshavSoft_Task1/static/css/main.d743d585.css.map",
+    "main.a2c0f2cb.js.map": "/KeshavSoft_Task1/static/js/main.a2c0f2cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d743d585.css",
+    "static/js/main.a2c0f2cb.js"
+  ]
+}
